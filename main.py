@@ -3,6 +3,7 @@ from models.personne import Personne
 
 
 p1 = Personne("spinosi","leandro")
+p2= Personne("Bracke","Gwenel")
 a1 = Animal("vache")
 
 p1.aj_ani(a1)
